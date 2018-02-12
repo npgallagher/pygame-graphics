@@ -1,0 +1,3 @@
+z: day/night
+x: lights on/off
+c: windy/not windy
